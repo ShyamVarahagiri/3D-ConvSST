@@ -1,0 +1,6 @@
+OAs for each iteration are:[69.89980981510891]
+AAs for each iteration are:[42.29722960107271]
+KAPPAs for each iteration are:[58.958815028793424]
+
+Class ACC for each iteration are: [[93.61981525 42.6035503  65.31049251 40.51873199 52.40044074  0.
+  44.31871759 64.9291498   0.          0.         61.56862745]]
