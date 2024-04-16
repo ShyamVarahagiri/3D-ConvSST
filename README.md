@@ -6,7 +6,7 @@ The code for "3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectr
 https://drive.google.com/drive/folders/1IbI-00BETq5GutDPVEi1mufw0LVrGFFp?usp=sharing
 
 ## Example of use
-Run the SST.ipynb jupyter notebook. Make sure the dataset directory is present in root.
+Run the 3D-ConvSST.ipynb jupyter notebook. Make sure the dataset directory is present in root.
 
 ## Paper citation
 Please cite following paper if you make use of this code in your research:
